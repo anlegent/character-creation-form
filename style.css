@@ -37,6 +37,10 @@ body {
   border-radius: 10px;
 }
 
+.genderimg {
+  width: 4%;
+}
+
 .div2 {
   display: flex;
   flex-direction: column;
